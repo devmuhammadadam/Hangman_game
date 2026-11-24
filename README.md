@@ -2,7 +2,7 @@
 
 ![Game](./screenshot/game.png)
 
-- **Live site**: https://muhammad-abdusalam.github.io/Hangman_game/
+- **Live site**: https://devmuhammadadam.github.io/Hangman_game/
 
 ### Built with ⚒️
 
@@ -12,4 +12,4 @@
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
